@@ -12,6 +12,9 @@ specifically Lemon Meringue Pie and my favorite movie is the Lego Movie.
 https://www.rit.edu/study/software-engineering-bs
 
 I'm hoping to learn more about:
+
 -Efficient methods to approach software development
+
 -Methods for working in a team
+
 -Support systems that exist within Rit
