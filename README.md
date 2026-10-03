@@ -7,6 +7,8 @@ trying to teach myself how to make my own games (both programming and art design
 swimming, drawing, reading, and exploring new cities with my bike. My favorite food is pie, but more
 specifically Lemon Meringue Pie and my favorite movie is the Lego Movie. 
 
+![picture of pie](best_food_ever.jpg)
+
 https://www.rit.edu/study/software-engineering-bs
 
 I'm hoping to learn more about:
