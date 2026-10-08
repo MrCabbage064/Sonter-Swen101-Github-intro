@@ -9,7 +9,7 @@ specifically Lemon Meringue Pie and my favorite movie is the Lego Movie.
 
 ![picture of pie](best_food_ever.jpg)
 
-https://www.rit.edu/study/software-engineering-bs
+<a href = "https://www.rit.edu/study/software-engineering-bs">RIT SE Website
 
 I'm hoping to learn more about: <br/>
 
